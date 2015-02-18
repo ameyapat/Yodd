@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 
-
+// Author : Ameya Patil
 public class JuggleFest {
 
 	public static void main(String[] args)throws IOException {

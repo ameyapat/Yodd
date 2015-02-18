@@ -36,7 +36,7 @@ public class JuggleFest {
 		}
 		// Calculate number of Jugglers per circuit
 		
-		int Climit=12000/2000;
+		int Climit=12000/2000;  // num Jugglers / num Circuits
 		for(int k=0;k<12000;k++)
 		{
 			assign(jugglers[k],circuits,jugglers);

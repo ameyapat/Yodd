@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 // Author : Ameya Patil
+//www.github.com/ameyapat
 public class JuggleFest {
 
 	public static void main(String[] args)throws IOException {

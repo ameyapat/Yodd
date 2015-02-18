@@ -66,7 +66,7 @@ public class JuggleFest {
 			bw.flush();
 			
 		}
-		System.out.println("Done !");
+		System.out.println("Done !"); // Print Done when is output file is generated
 		
 		
 	}
